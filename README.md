@@ -2,8 +2,8 @@
 ***
 
 <p>👨🏽‍💻I’m Roney Felipe, I'm a web developer and an enthusiast of Artificial intelligence🤖. 
+ I love to learn and work with new technologies📡 and new challenges because I believe that by using it, we are able to build a better world!🌎 </p>
  
- I love to learn and work with new technologies📡 and new challenges because I believe that by using it, we are able to build a better world!🌎 </p><br>
 <p style="text-align:justify"><img src="https://tenor.com/view/yoda-star-wars-learning-am-i-gif-16531775.gif" min-width="320px" max-width="320px" width="320px" align="right"/></p>
 
 <p>🔬Courses: <strong>Graduated in computer technician for the internet and I am studying Computer Science at Universidade Federal do Mato Grosso do Sul.</strong>

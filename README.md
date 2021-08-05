@@ -1,6 +1,6 @@
 ## Hello, everybody! 👋
 ***
-<p style="text-align:justify"><img src="https://www.kdmeusite.com.br/wp-content/uploads/2020/04/figura-consultoria-e-governanca-de-ti-scitis.png" min-width="300px" max-width="300px" width="300px" align="right"/></p>
+<p style="text-align:justify"><img src="https://tenor.com/view/yoda-star-wars-learning-am-i-gif-16531775.gif" min-width="350px" max-width="350px" width="300px" align="right"/></p>
 <p>👨🏽‍💻I’m Roney Felipe, I'm a web developer and an enthusiast of Artificial intelligence🤖. 
  I love to learn and work with new technologies📡 and new challenges because I believe that by using it, we are able to build a better world!🌎 </p><br>
 

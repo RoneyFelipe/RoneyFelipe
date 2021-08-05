@@ -4,7 +4,7 @@
 <p>👨🏽‍💻I’m Roney Felipe, I'm a web developer and an enthusiast of Artificial intelligence🤖. 
  I love to learn and work with new technologies📡 and new challenges because I believe that by using it, we are able to build a better world!🌎 </p><br>
 
-<p>🔬Courses: <strong>Graduated in computer technician for the internet.</strong>
+<p>🔬Courses: <strong>Graduated in computer technician for the internet and I am studying Computer Science at Universidade Federal do Mato Grosso do Sul.</strong>
 
 📚Languages: <strong>HTML, CSS, JS, Python and SQL.</strong>
 

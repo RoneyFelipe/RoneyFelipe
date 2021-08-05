@@ -20,4 +20,13 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:felipe.oliveira0743@gmail.com"><a>
     <a href="https://www.linkedin.com/in/roney-felipe-oliveira-miranda-0781591a5/" alt="Linkedin">
         <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/roney-felipe-oliveira-miranda-0781591a5/"></a>
+        
 </p>
+
+<div>
+    <a href="https://github.com/RoneyFelipe">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoneyFelipe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoneyFelipe&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
+![Snake animation](https://github.com/RoneyFelipe/RoneyFelipe/blob/output/github-contribution-grid-snake.svg)

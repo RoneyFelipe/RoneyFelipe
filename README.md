@@ -8,7 +8,7 @@
 
 <p>🔬Courses: <strong>Graduated in computer technician for the internet and I am studying Computer Science at Universidade Federal do Mato Grosso do Sul.</strong>
 
-📚Languages: <strong>HTML, CSS, JS, Python and SQL.</strong>
+📚Languages: <strong>HTML, CSS, JS, Python, SQL and C.</strong>
 
 📋Frameworks: <strong>NodeJS, ReactJS, Django and TRACi API.</strong></p>
 <br>

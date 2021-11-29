@@ -29,7 +29,7 @@
     <a href="https://github.com/RoneyFelipe">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoneyFelipe&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" min-width="10px" max-width="15px" width="10px"/>
-    <img height="180em" rc="https://github-readme-stats.vercel.app/api/top-langs/?username=RoneyFelipe&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoneyFelipe&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ![Snake animation](https://github.com/RoneyFelipe/RoneyFelipe/blob/output/github-contribution-grid-snake.svg)

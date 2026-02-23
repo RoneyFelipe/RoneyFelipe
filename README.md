@@ -1,16 +1,27 @@
 ## Hello, everybody! 👋
 ***
 
-<p>👨🏽‍💻I’m Roney Felipe, I'm a web developer and an enthusiast of Artificial intelligence🤖. 
- I love to learn and work with new technologies📡 and new challenges because I believe that by using it, we are able to build a better world!🌎 </p>
- 
+<p>👨🏽‍💻 I’m <strong>Roney Miranda</strong>, a Data Engineer and Computer Science Master's student specializing in <strong>AI and Computer Vision</strong>. 
+I’m passionate about building intelligent systems, from web scrapers and RPAs to complex convolutional models for precision agriculture. I believe that leveraging technology is the key to solving real-world challenges! 🌎 </p>
+
 <p style="text-align:justify"><img src="https://tenor.com/view/yoda-star-wars-learning-am-i-gif-16531775.gif" min-width="320px" max-width="320px" width="320px" align="right"/></p>
 
-<p>🔬Courses: <strong>Graduated in computer technician for the internet and I am studying Computer Science at Universidade Federal do Mato Grosso do Sul.</strong>
+### 🎓 Education
+* **M.Sc. in Computer Science**: Universidade Federal de Mato Grosso do Sul (UFMS), focus on AI and Computer Vision (2024 - 2026).
+* **International Mobility**: Academic experience at Instituto Superior Técnico de Lisboa (Sep 2024 - Feb 2025).
+* **B.Sc. in Computer Science**: Universidade Federal de Mato Grosso do Sul (UFMS) (2021 - 2025).
 
-📚Languages: <strong>HTML, CSS, JS, Python, SQL and C.</strong>
+### 🛠 Tech Stack & Skills
+* **Languages**: Python, SQL, JavaScript, C.
+* **AI & Data Science**: PyTorch, Scikit-learn, OpenCV, OpenMMLab, SHAP Values.
+* **Generative AI**: LLM Integration (OpenAI, Gemini, Ollama API).
+* **Data Engineering & Automation**: Selenium, Playwright, Web Scraping, RPA.
 
-📋Frameworks: <strong>NodeJS, ReactJS, Django and TRACi API.</strong></p>
+### 🏆 Featured Projects
+* **Pantanal.dev - Peixe Dourado**: Winner module for developing the B3 Social platform using Vue.js.
+* **Fraud Detection (Onça Pintada)**: Machine Learning project for credit card fraud detection with class imbalance handling (Honorable Mention).
+* **Sentiment Analysis (Arara Azul)**: Real-time brand reputation tool using NLP and Twitter/X data.
+
 <br>
 
 #### *“Stay Hungry, Stay Foolish”*

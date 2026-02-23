@@ -10,7 +10,8 @@ I’m passionate about building intelligent systems, from web scrapers and RPAs 
 * **M.Sc. in Computer Science**: Universidade Federal de Mato Grosso do Sul (UFMS), focus on AI and Computer Vision (2024 - 2026).
 * **International Mobility**: Academic experience at Instituto Superior Técnico de Lisboa (Sep 2024 - Feb 2025).
 * **B.Sc. in Computer Science**: Universidade Federal de Mato Grosso do Sul (UFMS) (2021 - 2025).
-
+* **Integrated Technical Degree in Informatics for the Internet**: Instituto Federal de Mato Grosso do Sul (IFMS) (2018 - 2021).
+  
 ### 🛠 Tech Stack & Skills
 * **Languages**: Python, SQL, JavaScript, C.
 * **AI & Data Science**: PyTorch, Scikit-learn, OpenCV, OpenMMLab, SHAP Values.
